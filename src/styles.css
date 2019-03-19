@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.memes {
+  border: 3px solid green;
+  display: inline-block;
+}
+#beatbox {
+}
